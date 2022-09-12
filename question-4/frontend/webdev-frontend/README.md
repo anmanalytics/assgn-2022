@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Instruction
 
 This project has been created as a part of the assignment.
 
-## Instruction
+## Note
 
 The webpage must be developed using this boilerplate only and must resember near to the given [design (Figma URL)](https://www.figma.com/file/tWxapzOZ7mmhggKJ5zTN3o/Dashboard?node-id=0%3A1).
 
