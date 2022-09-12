@@ -1,7 +1,7 @@
 {
   "name": "webdev-frontend",
   "version": "0.1.0",
-  "homepage": "https://imdps.github.io/assgn-2022",
+  "homepage": "https://anmanalytics.github.io/assgn-2022",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
